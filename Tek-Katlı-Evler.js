@@ -219,7 +219,6 @@ document.addEventListener("DOMContentLoaded", function(){
             
             $('[filtet='+"SS"+S+']').show();
 
-           console.log(".NN"+i);
            
            document.querySelector(".NN"+i).style.color= "#8f8f8f";
            document.querySelector(".NN"+S).style.color= "white";
